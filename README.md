@@ -1,5 +1,5 @@
 
-# Restaurant Reservation App
+# Restaurant Reservation System
 
 This .NET application is designed to facilitate restaurant reservations for users and management for restaurant owners. The app uses a SQL database to store and query restaurant and reservation information. It offers two primary user roles: **Client (User)** and **Admin (Restaurant Owner)**, each with unique functionalities. 
 
